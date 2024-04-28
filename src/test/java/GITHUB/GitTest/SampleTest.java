@@ -9,6 +9,8 @@ public class SampleTest {
 	  System.out.println("goodBye");
 	  System.out.println("Hi");
 	  System.out.println("Namaste");
+	  System.out.println("see you");
+	  System.out.println("TATA");
 		
 	}
 
