@@ -7,6 +7,8 @@ public class SampleTest {
 
 	  System.out.println("Hello");
 	  System.out.println("goodBye");
+	  System.out.println("Hi");
+	  System.out.println("Namaste");
 		
 	}
 
