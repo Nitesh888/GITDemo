@@ -3,6 +3,3 @@ q
 a
 e
 w
-t
-r
-d
