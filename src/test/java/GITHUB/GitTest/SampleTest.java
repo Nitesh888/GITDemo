@@ -21,4 +21,8 @@ public class SampleTest {
     {
     System.out.println("StartProcess");
     }
+    public static void startProcess2()
+    {
+    System.out.println("StartProcess-2");
+    }
 }
