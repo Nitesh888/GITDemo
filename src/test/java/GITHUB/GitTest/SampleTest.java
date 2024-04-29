@@ -13,5 +13,12 @@ public class SampleTest {
 	  System.out.println("TATA");
 		
 	}
-
+    public static void startLogin()
+    {
+    	System.out.println("StartLogin");
+    }
+    public static void startProcess()
+    {
+    System.out.println("StartProcess");
+    }
 }
